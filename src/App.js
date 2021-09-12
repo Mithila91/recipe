@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react'
 import Recipe from './components/recipe'
 import Header from './components/header'
 import Footer from './components/footer'
+import Style from './style.css'
 
 const App = () => {
   const APP_ID = 'd28f32ca';
